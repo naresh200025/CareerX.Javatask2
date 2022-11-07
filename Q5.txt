@@ -1,0 +1,6 @@
+let gainedDollar = 3;
+console.log(++gainedDollar);
+
+
+let lostDollar = 50;
+console.log(--lostDollar);

@@ -1,0 +1,5 @@
+var myname='Naresh';
+var NAME='myname';
+var mycity='vijayawada';
+var CITY='mycity';
+console.log('My name is ${NAME}. My favorite city is ${CITY}');

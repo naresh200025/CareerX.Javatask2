@@ -1,0 +1,14 @@
+let levelup=25;
+ console.log(levelup+=5);
+ 
+ 
+ let powerlevel=257;
+ console.log(powerlevel-=100);
+ 
+ 
+ let multiplyme=5;
+ console.log(multiplyme*11);
+ 
+ 
+ let quaterme=20;
+ console.log(quaterme/4);

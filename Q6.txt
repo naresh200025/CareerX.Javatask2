@@ -1,0 +1,4 @@
+var favoriteAnimal='favoriteAnimal';
+var ANIMAL='favoriteAnimal';
+   
+ console.log('My favorite animal:'+ANIMAL);
